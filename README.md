@@ -76,7 +76,7 @@ from enumer import run_enumer_tests
 run_enumer_tests()
 ```
 
-And...
+## And...
 * Merry Xmas 🎄🧑‍🎄
 * ~~Merry Ymas 🎄🧑‍🎄~~
 * ~~Merry Zmas 🎄🧑‍🎄~~
