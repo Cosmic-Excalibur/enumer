@@ -50,7 +50,7 @@ def upload():
         description="Residue class enumeration given partial information of either end.",
         long_description=long_description,
         long_description_content_type="text/markdown",
-        url="https://pypi.org/project/enumer/",
+        url="https://github.com/Cosmic-Excalibur/enumer",
         packages=setuptools.find_packages(),
         data_files=["requirements.txt"],
         classifiers=[
