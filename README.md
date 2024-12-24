@@ -77,6 +77,6 @@ run_enumer_tests()
 ```
 
 And...
-### Merry Xmas 🎄🧑‍🎄
-### ~~Merry Ymas 🎄🧑‍🎄~~
-### ~~Merry Zmas 🎄🧑‍🎄~~
+* Merry Xmas 🎄🧑‍🎄
+* ~~Merry Ymas 🎄🧑‍🎄~~
+* ~~Merry Zmas 🎄🧑‍🎄~~
