@@ -56,7 +56,7 @@ for pt in head_tail_enumer(ct, mod, head, tail, length, size_limit = 15000):
 
 ```
 
-For more examples, refer to `enumer/enumer/test`.
+For more examples, refer to `enumer/test`.
 ```
 from enumer import run_enumer_tests
 
