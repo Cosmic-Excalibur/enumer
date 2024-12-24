@@ -14,12 +14,26 @@
 # enumer
 Residue class enumeration given partial information of either end.
 
-Features:
+
+## Getting Started
+
+* pip
+```sh
+pip install enumer
+```
+
+* Clone the repo
+```sh
+git clone https://github.com/Cosmic-Excalibur/enumer.git
+```
+
+
+## Features
 - `enumer`. Perform naive enumerations of representatives.
 - `tail_enumer`. With the last few bits specified. This is done by simple modular arithmetic.
 - `head_tail_enumer`. With both the last and first few bits specified. This is done by meet-in-the-middle tricks.
 
-Example:
+## Examples
 ```python
 
 from secret import secret_message_from_someone
