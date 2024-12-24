@@ -20,8 +20,7 @@ Features:
 - `head_tail_enumer`. With both the last and first few bits specified. This is done by meet-in-the-middle tricks.
 
 Example:
-```
-# Python
+```python
 
 from secret import secret_message_from_someone
 from enumer import *
@@ -57,7 +56,7 @@ for pt in head_tail_enumer(ct, mod, head, tail, length, size_limit = 15000):
 ```
 
 For more examples, refer to `enumer/test`.
-```
+```python
 from enumer import run_enumer_tests
 
 run_enumer_tests()
